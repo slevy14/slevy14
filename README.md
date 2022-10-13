@@ -1,8 +1,10 @@
-Hello! I'm Sammy! Currently, I'm a Computer Science major at Occidental College.
+🦝 Hello! I'm Sammy! 
 
-You can reach me at sammyglevy@gmail.com!
+🐅 Currently, I'm a Computer Science major at Occidental College.
 
-I'm in the process of moving projects to this account!
+✉️ You can reach me at sammyglevy@gmail.com!
+
+🦑 I'm in the process of moving projects to this account!
 
 <!---
 slevy14/slevy14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
