@@ -4,9 +4,7 @@
 
 ✉️ You can reach me at sammyglevy@gmail.com!
 
-🦑 I'm in the process of moving projects to this account!
-
-# My Website: [slevy14.github.io](https://slevy14.github.io)
+# My Website: [slevy14.github.io](https://slevy14.github.io) (this is what you're looking for)
 
 <!---
 slevy14/slevy14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
